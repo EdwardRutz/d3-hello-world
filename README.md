@@ -15,5 +15,5 @@
 
 ## More Information
 
-- [D3.js in Action, Ch. 3 - D3 Fundamentals](https://livebook.manning.com/book/d3js-in-action-second-edition/)
+- [D3.js in Action, Ch.1-D3 Fundamentals](https://livebook.manning.com/book/d3js-in-action-second-edition/)
 
